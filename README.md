@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **cjmok-0825/cjmok-0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
@@ -19,4 +18,3 @@ Sigh...
 He
 - ⚡ Fun fact: ...
 No fun.
--->
